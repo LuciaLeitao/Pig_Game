@@ -31,7 +31,7 @@ Udemy course | by Jonas Schmedtmann
 <br>
 <br>
 
-## 🔗 Project links:
+## Project links:
 
      <ul>
         <li><a href="https://github.com/LuciaLeitao/Pig_Game">Project Files!</a> </li>
