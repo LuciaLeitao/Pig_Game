@@ -27,6 +27,11 @@ Interactive Pig Game implemented with HTML, CSS, and JavaScript for a fun and en
   <dt>Educational Value:</dt>
   <dd>Utilize the project as a learning tool for front-end development, showcasing the implementation of key concepts in HTML, CSS, and JavaScript.</dd> 
 </dl>
+<br>
+<br>
+
+## 🔗Project links:
+
      <ul>
         <li><a href="https://github.com/LuciaLeitao/Pig_Game">Project Files!</a> </li>
         <li><a href="https://lucialeitao.github.io/Pig_Game/">Project >> online</a> </li>
